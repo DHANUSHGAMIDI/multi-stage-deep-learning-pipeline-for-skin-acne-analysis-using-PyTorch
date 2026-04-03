@@ -1,5 +1,4 @@
 # multi-stage-deep-learning-pipeline-for-skin-acne-analysis-using-PyTorch
-# multi-stage-deep-learning-pipeline-for-skin-acne-analysis-using-PyTorch
 ### What Happens in This Project
 
 This project implements a **multi-stage deep learning pipeline** for skin/acne analysis using PyTorch.
